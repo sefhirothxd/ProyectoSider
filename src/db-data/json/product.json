@@ -1,0 +1,8 @@
+{
+    "product._id": "1",
+    "product.name": "Salchipapa",
+    "product.price": 10.3,
+    "product.image": "www.url.com/image.jpg",
+    "product.type": "Grasa",
+    "product.dateEntry": "10/11/2021 00:42:00"
+}
